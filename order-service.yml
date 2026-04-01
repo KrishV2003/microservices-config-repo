@@ -6,4 +6,4 @@ spring:
     name: ORDER-SERVICE
 
 custom:
-  message: "Hello from GitHub ORDER SERVICE 🚀"
+  message: "Hello from GitHub ORDER SERVICE"
