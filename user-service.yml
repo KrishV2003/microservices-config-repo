@@ -6,4 +6,4 @@ spring:
     name: USER-SERVICE
 
 custom:
-  message: "Hello from GitHub USER SERVICE 🚀"
+  message: "NEW MESSAGE 🔥"
